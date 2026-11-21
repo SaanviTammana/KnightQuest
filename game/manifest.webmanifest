@@ -1,0 +1,84 @@
+{
+  "name": "Knight's Quest",
+  "short_name": "Knight's Quest",
+  "id": "com.example.gamename",
+  "description": "Use arrow keys to move\nMous click to use a sword\nYou can aim the sword with arrow keys -the sword will hit in the direction the player's eyes are facing.",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "20x20"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "29x29"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "36x36"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "40x40"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "48x48"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "50x50"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "57x57"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "58x58"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "60x60"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "72x72"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "76x76"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "80x80"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "87x87"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "96x96"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "100x100"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "114x114"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "120x120"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "144x144"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "152x152"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "167x167"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "180x180"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "192x192"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "512x512"
+      },{
+        "src": "f31a18dc84a84577226640c8c55d9811352df89ce7197c1a33eb4c596365a8c8-NewSprite.png",
+        "sizes": "1024x1024"
+      }]
+}
